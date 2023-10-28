@@ -1,1 +1,0 @@
-Créer un conteneur Kubernetes pour le déploiements des modèles de données
