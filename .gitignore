@@ -1,0 +1,8 @@
+# Environnement vscode
+.DS_Store/
+
+# Environnement virtuel
+.venv/
+
+# Ignorer les fichiers logs et database
+*.logs
